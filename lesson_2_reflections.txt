@@ -1,0 +1,2 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+You will get a folder called .git. All the commit and matter related to with that repo will go there.
