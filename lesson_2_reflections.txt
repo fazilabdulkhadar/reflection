@@ -4,4 +4,5 @@ You will get a folder called .git. All the commit and matter related to with tha
 Staging area is between working directory and repo. We can add file wanted file the staging and commit those selected files to repo .
 3.How do the diagrams help you visualize the branch structure?
 We can realise the branch reachability and when the branch is start or how we can reach to a branch
-4.Adding one more line.
+4.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We can merge the two features in a single version.
