@@ -2,3 +2,5 @@
 You will get a folder called .git. All the commit and matter related to with that repo will go there.
 2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is between working directory and repo. We can add file wanted file the staging and commit those selected files to repo .
+3.How do the diagrams help you visualize the branch structure?
+We can realise the branch reachability and when the branch is start or how we can reach to a branch
