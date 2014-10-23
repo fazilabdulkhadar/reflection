@@ -8,3 +8,9 @@ We can realise the branch reachability and when the branch is start or how we ca
 We can merge the two features in a single version.
 5.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 If one functionality edited by two page @ same line we need for manual and if two diff fucnctolaity added by two devloper we dont need a automerging.
+6.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+I want to keep my remote reop up to date.
+7.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks: Clone the a other repo in Github(not in localy)
+Clone: Clone a repo from another to your local machine.
+Branches :Differnt version of you local repo for perform two feature. You must merge each branch and push to the origin one.
