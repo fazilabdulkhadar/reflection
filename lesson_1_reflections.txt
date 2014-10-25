@@ -22,5 +22,5 @@ We can revert the changes from log.
 7.Now that you have your workspace set up, what do you want to try using Git for?
 a.Open a text editor.
 b.adding .bash profile.
-c.Add/ Edit cammandss.
+c.Add/ Edit cammands.
 d.Custom Prompt.
