@@ -14,3 +14,5 @@ I want to keep my remote reop up to date.
 Forks: Clone the a other repo in Github(not in localy)
 Clone: Clone a repo from another to your local machine.
 Branches :Differnt version of you local repo for perform two feature. You must merge each branch and push to the origin one.
+8.What is the benefit of having a copy of the last known state of the remote stored locally?
+If you have a copy as same in the remote the conflict chance is very less. 
