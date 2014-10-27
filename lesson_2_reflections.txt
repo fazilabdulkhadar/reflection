@@ -16,3 +16,5 @@ Clone: Clone a repo from another to your local machine.
 Branches :Differnt version of you local repo for perform two feature. You must merge each branch and push to the origin one.
 8.What is the benefit of having a copy of the last known state of the remote stored locally?
 If you have a copy as same in the remote the conflict chance is very less. 
+9.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+with github.We can easly identify the changes has made by the person to the repo.
